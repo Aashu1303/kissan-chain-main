@@ -1,6 +1,0 @@
-[submodule "blockchain"]
-	path = blockchain
-	url = https://github.com/Aashu1303/kissan-chain-blockchain.git
-[submodule "auth"]
-	path = auth
-	url = https://github.com/Aashu1303/kissan-chain-backend.git
